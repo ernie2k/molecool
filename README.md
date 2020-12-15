@@ -7,6 +7,8 @@ molecool
 
 A Python package for analyzing and visualazing xyz files. Here I will change
 
+
+This code was developed at the University of Notre Dame du Lac.
 ### Copyright
 
 Copyright (c) 2020, Ernesto Cortes
