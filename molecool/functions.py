@@ -2,7 +2,7 @@
 functions.py
 A Python package for analyzing and visualazing xyz files.
 
-Handles the primary functions
+Handles the primary functions (Main source code)
 """
 
 
