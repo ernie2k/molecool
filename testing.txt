@@ -1,1 +1,3 @@
 I added this file from a new clone!
+
+New edit for a conflict ready to be hard to tackle.
