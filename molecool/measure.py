@@ -1,7 +1,7 @@
-""""
+"""
 
 This module is for functions which perform measurments.
-""""
+"""
 
 import numpy as np
 
@@ -22,3 +22,4 @@ def calculate_angle(rA, rB, rC, degrees=False):
         return np.degrees(theta)
     else:
         return theta
+

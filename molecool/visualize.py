@@ -1,8 +1,7 @@
-""""
+"""
 
 This module is for visualization.
-
-""""
+"""
 
 import matplotlib.pyplot as plt
 import numpy as np
